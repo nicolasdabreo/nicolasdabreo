@@ -12,11 +12,11 @@ Also studying Polish language intensively.
 
 _April 2024 - June 2024_
 
-NomixGroup are a service connecting user clicks/demand and advertising agencies based in the US. 
+NomixGroup are a service connecting user clicks/demand and advertising agencies based in the US. Ingesting 10 million+ records a day.
 
 Title: Software Engineer (Contract)
 
-Tech: Elixir, Phoenix, Phoenix LiveView, Postgres, AWS, Kafka, Broadway
+Primary Tech: Elixir, Phoenix, Phoenix LiveView, Postgres, AWS, Kafka, Broadway
 
 Projects:
 
@@ -32,11 +32,11 @@ TeamEngine are a FinTech/HR platform aimed at Film & TV projects based in and ar
 
 Title: Software Engineer (Contract)
 
-Tech: Elixir, Phoenix, Phoenix LiveView, Postgres, AWS, Commanded (Event Sourcing/CQRS), JavaScript
+Primary Tech: Elixir, Phoenix, Phoenix LiveView, Postgres, AWS, Commanded (Event Sourcing/CQRS), JavaScript
 
 Projects:
 
-- Lead a full front-end conversion project, new highly accessible components/design.
+- Led a full front-end conversion project, new highly accessible components/design.
     - Tech: jQuery -> ES6, html.eex -> html.heex, tachyons -> tailwind
 - Implemented new Oban backed mailer with a MJML based overhaul of templating system.
     - Tech: Elixir, Oban, MJML
@@ -46,20 +46,39 @@ Projects:
     - Tech: Elixir, Phoenix LiveView, JavaScript, SQL
 - Implemented a domain documentation platform, project management and planning systems as the team grew to aid in development speed, collaboration and to foster a better understanding of the underlying concepts.
     - Tools: linear.app, Slab, Miro
-- Lead the feature development of a LiveView for clients to export large numbers of Timesheets, involving all forms of pdf file manipulations.
-    - Tech: Elixir, Oban, Phoenix LiveView, PDFTK, ChromicPDF, Puppeteer
-- Lead the feature development of a bulk crew management LiveView, enabling the editing of thousands of user records across many tables with a single form, utilising eventual consistency and progress tracking.
+- Led the feature development of a LiveView for clients to export large numbers of Timesheets, involving all forms of pdf file manipulations.
+    - Tech: Elixir, Oban, Phoenix LiveView, PDFTK, ChromicPDF, Puppeteer (pdf splitting/generating/filling/splitting)
+- Led the feature development of a bulk crew management LiveView, enabling the editing of thousands of user records across many tables with a single form, utilising eventual consistency and progress tracking.
     - Tech: Elixir, Oban, Phoenix LiveView, JavaScript
 - Migrated multi-dyno Heroku app to highly available AWS infra due to hard cap on number of websocket connections from dynos and escalating costs.
     - Tech: Heroku, AWS, Terraform, Gihub Actions
 - Handling of updated legal regulations and requirements upon projects with different unions/jurisdictions/industriescd 
     - Translating accounting spreadsheeting -> code, collaborating with accountants
+- Reworked S3 document storage after discovering security vulnerabilities 
+    - presigned uploads/downloads, microservice/interface for background antivirus scans, buckets for processing stages, storage cleanup
+- MVP back-end of a CQRS/ES document distribution service (Commanded, LiveView)
+- Probably a bunch more...
 
 ### Stitched - [stitched.co.uk](https://stitched.co.uk)
 
 _October 2020 - September 2021_
 
+Stitched are a UK based E-Commerce business connecting customers to creators in the interior decoration space for Windows and Blinds. Giving users the ability to measure out their windows, customise their fabric and decorations -- All while viewing changes on a 3D rendered design.
+
 Title: Full-Stack Developer (Full-Time)
+
+Primary Tech: Elixir, Phoenix, Phoenix LiveView, Postgres, AWS, Commanded (Event Sourcing/CQRS), JavaScript
+
+- Solo self-led Back-End development
+- Led Front-End development projects
+- Implementing communication channels between server-side state and 3D renderer
+    - Tech: Elixir, Websockets, TypeScript, React
+- Developed window and product customization forms
+    - Tech: Elixir, LiveView
+- Led Back-End implementation of new system for creating and saving windows for a customer to use across the app.
+    - Tech: Elixir
+- Heading up development on all development on the legacy system
+    - Tech: Ruby, Ruby on Rails, Redis
 
 ### Square Enix Europe 
 
@@ -67,9 +86,22 @@ _April 2018 - October 2020_
 
 Title: Junior Developer (Full-Time)
 
-#### Projects (Public-facing projects have clickable links)
+- Implemented a greenfield Twitch Drops integration for Square Enix games using ES/CQRS, exposing data on Game APIs and collaborating with Twitch staff.
+    - Tech: ES/CQRS
+- Developed a React-based Headless CMS, including APIs for publishing content.
+    - Tech: TypeScript, React, Cowboy
+- Created an application to visualize how a webpage on internal environments appears when shared on social media.
+    - Tech: React
+- Built a Phoenix application for third-party mobile game developers to create accounts and submit requests for games involving Square Enix IPs.
+    - Tech: Phoenix
+- Contributed to the Square Enix Membership authentication platform and developed APIs for game teams.
+    - Tech: Elixir
+- Developed and maintained the websites for Tomb Raider and Just Cause 4.
+    - Tech: React, JavaScript, StyledComponents
 
-TODO
+#### Projects
+
+Find them [here](https://dabreo.dev/projects)
 
 ## Education
 
@@ -86,10 +118,6 @@ _September 2014 - July 2016_
 Title: BTEC Extended Diploma, Information Technology
 
 Grade: Triple Distinction Star
-
-## Tech
-
-TODO
 
 ### Contact
 
