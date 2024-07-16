@@ -67,7 +67,7 @@ Stitched are a UK based E-Commerce business connecting customers to creators in 
 
 Title: Full-Stack Developer (Full-Time)
 
-Primary Tech: Elixir, Phoenix, Phoenix LiveView, Postgres, AWS, Commanded (Event Sourcing/CQRS), JavaScript
+Primary Tech: Elixir, Phoenix, Phoenix LiveView, Postgres, Google Cloud Platform, React, TypeScript, Ruby, Ruby on Rails
 
 - Solo self-led Back-End development
 - Led Front-End development projects
@@ -86,20 +86,22 @@ _April 2018 - October 2020_
 
 Title: Junior Developer (Full-Time)
 
+Primary Tech: Elixir, Phoenix, Postgres, MongoDB, RabbitMQ,g Google Cloud Platform, Event Sourcing/CQRS, React, TypeScript
+
 - Implemented a greenfield Twitch Drops integration for Square Enix games using ES/CQRS, exposing data on Game APIs and collaborating with Twitch staff.
-    - Tech: ES/CQRS
+    - Tech: Elixir, Phoenix, EventStore, Event Sourcing/CQRS
 - Developed a React-based Headless CMS, including APIs for publishing content.
     - Tech: TypeScript, React, Cowboy
 - Created an application to visualize how a webpage on internal environments appears when shared on social media.
     - Tech: React
 - Built a Phoenix application for third-party mobile game developers to create accounts and submit requests for games involving Square Enix IPs.
-    - Tech: Phoenix
+    - Tech: Elixir, Phoenix
 - Contributed to the Square Enix Membership authentication platform and developed APIs for game teams.
-    - Tech: Elixir
+    - Tech: Elixir, Cowboy, Phoenix
 - Developed and maintained the websites for Tomb Raider and Just Cause 4.
     - Tech: React, JavaScript, StyledComponents
 
-#### Projects
+#### Public Projects
 
 Find them [here](https://dabreo.dev/projects)
 
