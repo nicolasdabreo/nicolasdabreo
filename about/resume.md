@@ -52,6 +52,8 @@ Projects:
     - Tech: Elixir, Oban, Phoenix LiveView, JavaScript
 - Migrated multi-dyno Heroku app to highly available AWS infra due to hard cap on number of websocket connections from dynos and escalating costs.
     - Tech: Heroku, AWS, Terraform, Gihub Actions
+- Handling of updated legal regulations and requirements upon projects with different unions/jurisdictions/industriescd 
+    - Translating accounting spreadsheeting -> code, collaborating with accountants
 
 ### Stitched - [stitched.co.uk](https://stitched.co.uk)
 
