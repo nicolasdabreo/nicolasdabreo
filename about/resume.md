@@ -1,6 +1,6 @@
 # Nicolas Dabreo
 
-London based Software Engineer, focusing on Elixir as a language and persuing projects that resonate with me.
+London based Software Engineer, focusing on Elixir as a language and pursuing projects that resonate with me.
 
 Available for hire.
 
@@ -51,8 +51,8 @@ Projects:
 - Led the feature development of a bulk crew management LiveView, enabling the editing of thousands of user records across many tables with a single form, utilising eventual consistency and progress tracking.
     - Tech: Elixir, Oban, Phoenix LiveView, JavaScript
 - Migrated multi-dyno Heroku app to highly available AWS infra due to hard cap on number of websocket connections from dynos and escalating costs.
-    - Tech: Heroku, AWS, Terraform, Gihub Actions
-- Handling of updated legal regulations and requirements upon projects with different unions/jurisdictions/industriescd 
+    - Tech: Heroku, AWS, Terraform, Github Actions
+- Handling of updated legal regulations and requirements upon projects with different unions/jurisdictions/industries 
     - Translating accounting spreadsheeting -> code, collaborating with accountants
 - Reworked S3 document storage after discovering security vulnerabilities 
     - presigned uploads/downloads, microservice/interface for background antivirus scans, buckets for processing stages, storage cleanup
