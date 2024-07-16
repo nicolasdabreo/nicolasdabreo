@@ -4,6 +4,7 @@
 ## 📅 If I'm not programming I'm probably
 - Gardening
 - Cooking
+- Playing Magic: The Gathering
 - Learning Polish
 - Playing guitar
 - Playing videogames
