@@ -1,5 +1,5 @@
 <h1 align="center">👋 I'm Nicolas Dabreo</h1>
-<h3 align="center">~London-based~ Lublin-based software engineer</h3>
+<h3 align="center">~~London-based~~ Lublin-based software engineer</h3>
 
 Currently contracting for: [Team Engine](https://teamengine.co.uk), [QSimbo](https://qsimbo.com), [Upya]() and [Darex Sklep](https://darex-sklep.pl/)
 
