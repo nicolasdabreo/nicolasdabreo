@@ -8,6 +8,26 @@ Also studying Polish language intensively.
 
 ## Employment
 
+### Two other projects I'm not ready to share 🤫
+
+### QSimbo
+
+_November 2024 - January 2025_
+
+A greenfield multi-tenant application for managing small-scale campsites and hotels
+
+Title: Software Engineer (Part-Time Contract)
+
+Primary Tech: Elixir, Phoenix, Phoenix LiveView, Postgres
+
+### TeamEngine
+
+_September 2024 - Present_
+
+Title: Software Engineer (Part-Time Contract)
+
+Primary Tech: Elixir, Phoenix, Phoenix LiveView
+
 ### NomixGroup
 
 _April 2024 - June 2024_
