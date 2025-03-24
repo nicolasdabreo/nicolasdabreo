@@ -1,9 +1,9 @@
 <h1 align="center">👋 I'm Nicolas Dabreo</h1>
 <h3 align="center"><del>🇬🇧 London-based</del> 🇵🇱 Lublin-based software engineer</h3>
 
-Currently contracting for: [Team Engine](https://teamengine.co.uk), [QSimbo](https://qsimbo.com), [Upya]() and [Darex Sklep](https://darex-sklep.pl/)
+Currently contracting for: [Coderative](https://www.coderative.fr/) and [Darex Sklep](https://darex-sklep.pl/)
 
-Currently working on: [GameStore Leagues](https://lgsleagues.com), [Koszulomat]() & opening my own coffee shop [Mother Coffee]()!
+Currently working on: [Koszulomat]() & opening my own coffee shop [Mother Coffee]()!
 
 I like to keep busy.
 
