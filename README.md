@@ -3,4 +3,4 @@
 
 Currently contracting for: [Darex Sklep](https://darex-sklep.pl/)
 
-Currently working on: [Koszulomat]() & opening a family hotel/hipster coffee shop
+Currently working on: [Koszulomat](https://koszulomat.pl/) & [|Dworek Modrzewiowy](https://dworekmodrzewiowy.pl/)
